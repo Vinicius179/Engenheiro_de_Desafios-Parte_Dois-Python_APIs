@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-06-07T02:07:25.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iQjk74jw5ghisPEVPcGz" version="24.5.1" type="device">
+  <diagram name="Página-1" id="bhSgiazIQh7LAouH85lV">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLLCF6k7TbJpMjrI5GfT-1" target="zLLCF6k7TbJpMjrI5GfT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="22" y="332" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLLCF6k7TbJpMjrI5GfT-2" target="zLLCF6k7TbJpMjrI5GfT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-2" value="Extração de IDs via&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;API Mercado Livre&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLLCF6k7TbJpMjrI5GfT-4" target="zLLCF6k7TbJpMjrI5GfT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-4" value="Extração de dados do produto utilizando IDs, via&amp;nbsp;API Mercado Livre" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLLCF6k7TbJpMjrI5GfT-6" target="zLLCF6k7TbJpMjrI5GfT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-6" value="Filtro de colunas relevantes para visualização de dados" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zLLCF6k7TbJpMjrI5GfT-8" target="zLLCF6k7TbJpMjrI5GfT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-8" value="Exportação de dados em CSV" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLLCF6k7TbJpMjrI5GfT-10" value="Utilização do CSV para a criação de Dashboards" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
